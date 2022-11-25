@@ -1,4 +1,18 @@
 # saucedemo-vates-automation
-Automatización de inicio de sesion de saucedemo utilizando python y el framework selenium, utilizando el patron POM
 
+## Descripcion del proyecto
 
+Automatización el inicio de sesion de la URL:https://www.saucedemo.com/ y validando el mismo, utilizando el patron POM
+
+## Herramientas
+
+- Python
+- Selenium
+- Pycharm
+- Pytest
+- selenium-page-factory
+
+## Como se ejecuta el test
+```
+pytest -v
+```
